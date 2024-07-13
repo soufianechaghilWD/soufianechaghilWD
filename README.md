@@ -21,10 +21,6 @@ Welcome to my GitHub profile! I am a Full Stack Developer with extensive experie
 **Full Stack Engineer**  
 *March 2023 – Present*
 
-- Developed a comprehensive testing environment with Jest, integrating unit and integration tests to ensure secure deployments and enhance development efficiency.
-- Collaborated with UI/UX designers to deliver features into production.
-- Enhanced application performance by refactoring code and developing efficient solutions using Next.js and MongoDB.
-
 ### SCANDIWEB, Riga, Latvia (Remote)
 **Web Developer**  
 *September 2022 – November 2022*
