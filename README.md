@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I am a Full Stack Developer with extensive experie
 
 ### The University of the People
 **Associate Degree in Computer Science**  
-*Expected Graduation: September 2023*
+*September 2021 – June 2024*
 
 - Courses: Data Structures & Algorithms, Java OOP, Web Applications, Databases.
 
